@@ -1,0 +1,5 @@
+Example product category A
+Example product category B
+Example subscription service
+Example local service
+Example education service

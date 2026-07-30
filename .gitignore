@@ -1,0 +1,19 @@
+# 環境変数・認証情報
+.env
+genres.txt
+*.json
+google-service-account.json
+credentials*.json
+token*.json
+
+# Pythonのキャッシュと仮想環境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# エディタとOSの一時ファイル
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
